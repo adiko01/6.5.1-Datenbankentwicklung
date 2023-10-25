@@ -1,0 +1,3 @@
+# Aufgabenstellung
+
+![](Aufgabe.png)
